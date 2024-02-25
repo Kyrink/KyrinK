@@ -2,9 +2,10 @@
 
 # 💫 About Me:
 I'm a final-year Computer Science student at the University of Southern Maine, where my passion for technology meets creativity. I’m driven by the desire to craft engaging, dynamic websites and infuse machine learning and AI into innovative software designs. I dedicate myself to creating not just functional, but memorable user experiences through meticulous UI design.<br><br>
+Beyond the world of code, I love art and photography, and I channel my creativity into vibrant paintings and captivating photographs in my free time.<br><br>
 
 ## 🏋🏾‍♂️ I'm Currently working on:
-Beyond the world of code, I love art and photography, and I channel my creativity into vibrant paintings and captivating photographs in my free time.<br><br>I'm currently working on the development of LinkedOut, a social networking platform for the University of Southern Maine community, aimed at enhancing connectivity, collaboration, and career readiness. <br>
+I'm currently working on the development of LinkedOut, a social networking platform for the University of Southern Maine community, aimed at enhancing connectivity, collaboration, and career readiness. <br>
 
 
 ## 🌐 Conneect with me:
