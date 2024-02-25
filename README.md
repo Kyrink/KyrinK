@@ -8,7 +8,7 @@ Beyond the world of code, I love art and photography, and I channel my creativit
 I'm currently working on the development of LinkedOut, a social networking platform for the University of Southern Maine community, aimed at enhancing connectivity, collaboration, and career readiness. <br>
 
 
-## 🌐 Conneect with me:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kyrinkalonji) 
 
 # 💻 Tech Stack:
